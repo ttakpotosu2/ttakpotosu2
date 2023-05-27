@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ttakpotosu2
 - 👀 I’m interested in Mobile Dev
-- 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Kotlin and Jetpack Compose
+- 📫 How to reach me on Twitter @itanjr
 
 <!---
 ttakpotosu2/ttakpotosu2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
