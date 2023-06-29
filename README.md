@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ttakpotosu2
-- 👀 I’m interested in Mobile Dev
+- 👀 I’m interested in Android Mobile Dev
 - 🌱 I’m currently learning Kotlin and Jetpack Compose
 - 📫 How to reach me on Twitter @itanjr
 
