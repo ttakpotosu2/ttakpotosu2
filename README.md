@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ttakpotosu2
-- 👀 I’m interested in Android Mobile Dev
-- 🌱 I’m currently learning Kotlin and Jetpack Compose
-- 📫 How to reach me on Twitter @itanjr
+- 👋 Hi, I’m Tetteh
+- 👀 I’m an Android Mobile Developer
+- 🌱 Current Stank is Kotlin and Jetpack Compose...adding on soon.
+- 📫 How to reach me on X(Twitter) @itanjr
 
 <!---
 ttakpotosu2/ttakpotosu2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
