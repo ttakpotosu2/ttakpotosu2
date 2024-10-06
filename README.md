@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tetteh
 - 👀 I’m an Android Mobile Developer
-- 🌱 Current Stack is Kotlin and Jetpack Compose...adding on soon.
+- 🌱 Current Stack is Kotlin and Jetpack Compose, Kotlin and Compose Multiplatform...adding on soon.
 - 📫 How to reach me on X(Twitter) @itanjr
 
 <!---
